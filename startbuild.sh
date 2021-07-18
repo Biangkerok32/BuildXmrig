@@ -3,8 +3,8 @@
 
 echo "Start Build Xmrig"
 
-apt update && apt upgrade &&
-apt install -y git wget proot build-essential cmake libmicrohttpd &&
+sudo apt update && sudo apt upgrade &&
+sudo apt install -y git wget proot build-essential cmake libmicrohttpd &&
 git clone https://github.com/xmrig/xmrig --depth 1 &&
 mkdir xmrig/build &&
 cd xmrig/build &&
