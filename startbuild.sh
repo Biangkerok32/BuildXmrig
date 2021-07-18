@@ -4,9 +4,8 @@
 echo "Start Build Xmrig"
 
 apt update && apt upgrade &&
-apt install -y git wget proot build-essential cmake libmicrohttpd &&
-git clone https://github.com/xmrig/xmrig --depth 1 &&
-mkdir xmrig/build &&
-cd xmrig/build &&
+sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y &&
+git clone https://github.com/xmrig/xmrig.git &&
+mkdir xmrig/build && cd xmrig/build &&
 cmake -DWITH_HWLOC=OFF .. &&
-make -j10
+make -j$(nproc)
